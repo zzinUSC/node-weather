@@ -1,0 +1,6 @@
+weather stack:
+ee29521d92b5b678af3ddea42a38d7e0
+
+mapbox
+key:pk.eyJ1Ijoienpmb3JsYXRsb25nIiwiYSI6ImNraTJjdmh5MTFpeTcycW9kd25lbnBlcTUifQ.x8ge8EncVAmQBdyLZ7eQNQ
+example:https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=pk.eyJ1Ijoienpmb3JsYXRsb25nIiwiYSI6ImNraTJjdmh5MTFpeTcycW9kd25lbnBlcTUifQ.x8ge8EncVAmQBdyLZ7eQNQ
