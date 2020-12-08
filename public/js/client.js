@@ -10,7 +10,7 @@ function get_forcast(address){
             mes2.textContent=data.error;
         }else{
             console.log(data.weather);
-            mes2.textContent=data.weather.temperature;
+            mes2.textContent="the temperature: "+data.weather.temperature;
         }
     })
 })
